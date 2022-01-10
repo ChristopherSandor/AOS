@@ -1,0 +1,34 @@
+body{
+  background-color: #684380;
+  background-image: linear-gradient(to bottom right, #C973A1, #684380);
+  overflow-y: scroll;
+  overflow-x: hidden;
+
+}
+
+.photo1{
+  width: 120%;
+}
+.photo2{
+  width:85%
+}
+.photo3{
+  width:60%
+}
+
+.height1{
+  height: 5vh;
+}
+.text1{
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.height2{
+  height: 20vh;
+}
+.photo4{
+  width:30%
+}
+.photo5{
+  width:24%
+}
